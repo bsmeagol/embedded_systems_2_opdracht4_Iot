@@ -1,0 +1,11 @@
+C:\Users\bsmea\aspnetcoreapp\bin\Release\netcoreapp2.0\aspnetcoreapp.deps.json
+C:\Users\bsmea\aspnetcoreapp\bin\Release\netcoreapp2.0\aspnetcoreapp.runtimeconfig.json
+C:\Users\bsmea\aspnetcoreapp\bin\Release\netcoreapp2.0\aspnetcoreapp.runtimeconfig.dev.json
+C:\Users\bsmea\aspnetcoreapp\bin\Release\netcoreapp2.0\aspnetcoreapp.dll
+C:\Users\bsmea\aspnetcoreapp\bin\Release\netcoreapp2.0\aspnetcoreapp.pdb
+C:\Users\bsmea\aspnetcoreapp\obj\Release\netcoreapp2.0\aspnetcoreapp.csprojResolveAssemblyReference.cache
+C:\Users\bsmea\aspnetcoreapp\obj\Release\netcoreapp2.0\aspnetcoreapp.csproj.CoreCompileInputs.cache
+C:\Users\bsmea\aspnetcoreapp\obj\Release\netcoreapp2.0\aspnetcoreapp.AssemblyInfoInputs.cache
+C:\Users\bsmea\aspnetcoreapp\obj\Release\netcoreapp2.0\aspnetcoreapp.AssemblyInfo.cs
+C:\Users\bsmea\aspnetcoreapp\obj\Release\netcoreapp2.0\aspnetcoreapp.dll
+C:\Users\bsmea\aspnetcoreapp\obj\Release\netcoreapp2.0\aspnetcoreapp.pdb

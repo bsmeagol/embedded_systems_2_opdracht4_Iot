@@ -1,0 +1,14 @@
+C:\Users\bsmea\aspnetcoreapp\bin\Release\netcoreapp2.1\linux-arm\libhostpolicy.so
+C:\Users\bsmea\aspnetcoreapp\bin\Release\netcoreapp2.1\linux-arm\libhostfxr.so
+C:\Users\bsmea\aspnetcoreapp\bin\Release\netcoreapp2.1\linux-arm\aspnetcoreapp
+C:\Users\bsmea\aspnetcoreapp\bin\Release\netcoreapp2.1\linux-arm\aspnetcoreapp.deps.json
+C:\Users\bsmea\aspnetcoreapp\bin\Release\netcoreapp2.1\linux-arm\aspnetcoreapp.runtimeconfig.json
+C:\Users\bsmea\aspnetcoreapp\bin\Release\netcoreapp2.1\linux-arm\aspnetcoreapp.runtimeconfig.dev.json
+C:\Users\bsmea\aspnetcoreapp\bin\Release\netcoreapp2.1\linux-arm\aspnetcoreapp.dll
+C:\Users\bsmea\aspnetcoreapp\bin\Release\netcoreapp2.1\linux-arm\aspnetcoreapp.pdb
+C:\Users\bsmea\aspnetcoreapp\obj\Release\netcoreapp2.1\linux-arm\aspnetcoreapp.csprojAssemblyReference.cache
+C:\Users\bsmea\aspnetcoreapp\obj\Release\netcoreapp2.1\linux-arm\aspnetcoreapp.csproj.CoreCompileInputs.cache
+C:\Users\bsmea\aspnetcoreapp\obj\Release\netcoreapp2.1\linux-arm\aspnetcoreapp.AssemblyInfoInputs.cache
+C:\Users\bsmea\aspnetcoreapp\obj\Release\netcoreapp2.1\linux-arm\aspnetcoreapp.AssemblyInfo.cs
+C:\Users\bsmea\aspnetcoreapp\obj\Release\netcoreapp2.1\linux-arm\aspnetcoreapp.dll
+C:\Users\bsmea\aspnetcoreapp\obj\Release\netcoreapp2.1\linux-arm\aspnetcoreapp.pdb
